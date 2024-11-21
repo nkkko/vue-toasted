@@ -357,6 +357,8 @@ Contribute to Vue Toasted using a fully featured online development environment 
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/shakee93/vue-toasted)
+
 ### Credits
 
 + Inspired and developed from [materialize-css](https://github.com/Dogfalo/materialize) toast.
